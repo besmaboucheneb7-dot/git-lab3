@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Feature B
-=======
 Main updated
->>>>>>> origin/main
